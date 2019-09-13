@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/pdi.o
+./release/sobre.o
+./release/mediaimg.o
+./release/dialogmedia.o
+./release/moc_pdi.o
+./release/moc_sobre.o
+./release/moc_mediaimg.o
+./release/moc_dialogmedia.o
+./release/qrc_img.o
+);

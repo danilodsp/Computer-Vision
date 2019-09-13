@@ -1,0 +1,12 @@
+INPUT(
+./debug/main.o
+./debug/pdi.o
+./debug/sobre.o
+./debug/mediaimg.o
+./debug/dialogmedia.o
+./debug/moc_pdi.o
+./debug/moc_sobre.o
+./debug/moc_mediaimg.o
+./debug/moc_dialogmedia.o
+./debug/qrc_img.o
+);
